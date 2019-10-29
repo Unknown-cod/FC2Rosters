@@ -1,0 +1,99 @@
+Power Four,,,,,,
+Northeast,East,West,,,,
+Mid-West,North,South,,,,
+Southeast,East,West,,,,
+West,North,South,,,,
+Up,High,Low,,,,
+Down,High,Low,,,,
+# Team format:,Conference,Division,Name,Abbr,Prestige,Rival
+# Northeast,,,,,,
+TEAM,Northeast,West,Ohio State,OSU,90,MICH
+TEAM,Northeast,West,Penn State,PSU,90,PITT
+TEAM,Northeast,West,Notre Dame,ND,85,MSU
+TEAM,Northeast,West,West Virginia,WVU,80,VT
+TEAM,Northeast,West,Cincinnati,CIN,60,MLD
+TEAM,Northeast,West,Northwestern,NW,50,WIS
+TEAM,Northeast,West,Louisville,LOU,50,BC
+TEAM,Northeast,East,Michigan,MICH,85,OSU
+TEAM,Northeast,East,Wisconsin,WIS,85,NW
+TEAM,Northeast,East,Michigan St,MSU,80,ND
+TEAM,Northeast,East,Pittsburgh,PITT,80,PSU
+TEAM,Northeast,East,Virginia Tech,VT,80,WVU
+TEAM,Northeast,East,Boston College,BC,80,LOU
+TEAM,Northeast,East,Maryland,MD,60,CIN
+# Mid-West,,,,,,
+TEAM,Mid-West,North,Oklahoma,OKL,85,TEX
+TEAM,Mid-West,North,Baylor,BAY,85,HOU
+TEAM,Mid-West,North,Oklahoma St,OKST,80,KSU
+TEAM,Mid-West,North,Nebraska,NEB,75,IOWA
+TEAM,Mid-West,North,TCU,TCU,60,TAMU
+TEAM,Mid-West,North,Arkansas,ARK,50,MIZ
+TEAM,Mid-West,North,Texas Tech,TTU,50,MINN
+TEAM,Mid-West,South,Texas,TEX,85,OKL
+TEAM,Mid-West,South,Texas A&M,TAMU,85,TCU
+TEAM,Mid-West,South,Iowa,IOWA,80,NEB
+TEAM,Mid-West,South,Houston,HOU,80,BAY
+TEAM,Mid-West,South,Minnesota,MINN,80,TTU
+TEAM,Mid-West,South,Missouri,MIZ,75,ARK
+TEAM,Mid-West,South,Kansas St,KSU,60,OKST
+# Southeast,,,,,,
+TEAM,Southeast,West,Alabama,ALA,90,AUB
+TEAM,Southeast,West,Georgia,UGA,90,UF
+TEAM,Southeast,West,Clemson,CLEM,90,LSU
+TEAM,Southeast,West,Miami,UM,80,FSU
+TEAM,Southeast,West,Ole Miss,MISS,60,MSST
+TEAM,Southeast,West,South Carolina,SCAR,60,NCST
+TEAM,Southeast,West,Tennessee,TEN,50,GT
+TEAM,Southeast,East,LSU,LSU,90,CLEM
+TEAM,Southeast,East,Auburn,AUB,85,ALA
+TEAM,Southeast,East,Florida,UF,85,UGA
+TEAM,Southeast,East,Florida St,FSU,80,UM
+TEAM,Southeast,East,Mississippi St,MSST,75,MISS
+TEAM,Southeast,East,NC State,NCST,75,SCAR
+TEAM,Southeast,East,Georgia Tech,GT,50,TEN
+# West,,,,,,
+TEAM,West,North,Utah,UTAH,85,BYU
+TEAM,West,North,Oregon,ORE,85,BSU
+TEAM,West,North,Washington St,WSU,80,WASH
+TEAM,West,North,Stanford,STAN,75,USC
+TEAM,West,North,Colorado,COLO,70,SDSU
+TEAM,West,North,California,CAL,65,UCLA
+TEAM,West,North,Arizona,ARIZ,60,ASU
+TEAM,West,South,Washington,WASH,85,WSU
+TEAM,West,South,Arizona St,ASU,80,ARIZ
+TEAM,West,South,USC,USC,80,STAN
+TEAM,West,South,Boise St,BSU,80,ORE
+TEAM,West,South,BYU,BYU,65,UTAH
+TEAM,West,South,UCLA,UCLA,60,CAL
+TEAM,West,South,San Diego St,SDSU,55,COLO
+# Up,,,,,,
+TEAM,Up,High,SMU,SMU,80,AF
+TEAM,Up,High,UCF,UCF,75,USF
+TEAM,Up,High,Memphis,MEM,75,TOL
+TEAM,Up,High,Army,ARMY,70,NAVY
+TEAM,Up,High,Hawaii,HAW,65,APP
+TEAM,Up,High,Temple,TEM,65,TULN
+TEAM,Up,High,FIU,FIU,50,FAU
+TEAM,Up,Low,Navy,NAVY,70,ARMY
+TEAM,Up,Low,Air Force,AF,70,SMU
+TEAM,Up,Low,App St,APP,70,HAW
+TEAM,Up,Low,Tulane,TULN,65,TEM
+TEAM,Up,Low,USF,USF,60,UCF
+TEAM,Up,Low,Toledo,TOL,60,MEM
+TEAM,Up,Low,FAU,FAU,50,FIU
+# Down,,,,,,
+TEAM,Down,High,Iowa St,ISU,75,ILL
+TEAM,Down,High,Wake Forest,WF,75,VAN
+TEAM,Down,High,Duke,DUKE,70,UNC
+TEAM,Down,High,Virginia,UVA,70,UK
+TEAM,Down,High,Syracuse,SYR,65,RUT
+TEAM,Down,High,Kansas,KU,60,SAM
+TEAM,Down,High,Purdue,PUR,55,IND
+TEAM,Down,Low,UNC,UNC,70,DUKE
+TEAM,Down,Low,Illinois,ILL,65,ISU
+TEAM,Down,Low,Indiana,IND,60,PUR
+TEAM,Down,Low,Kentucky,UK,55,UVA
+TEAM,Down,Low,Vanderbilt,VAN,50,WF
+TEAM,Down,Low,Rutgers,RUT,30,SYR
+TEAM,Down,Low,American Samoa,SAM,25,KU
+END_FILE,,,,,,
